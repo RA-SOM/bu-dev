@@ -5,6 +5,7 @@ import java.util.Calendar;
 public class WeekExample {
 
     public static void main(String[] args){
+        // 선언
         Week today = null;
 
         Calendar cal = Calendar.getInstance();

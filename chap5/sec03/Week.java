@@ -1,6 +1,7 @@
 package chap5.sec03;
 
 public enum Week {
+    // 요일
     MONDAY,
     TUESDAY,
     WEDNESDAY,

@@ -1,4 +1,4 @@
-package chap06.prac.sec03_06;
+package chap06.prac.sec03_06.singleTone;
 
 public class CompanyExample {
     public static void main(String[] args) {

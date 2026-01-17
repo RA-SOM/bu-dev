@@ -1,4 +1,4 @@
-package chap5.sec03;
+package chap05.sec03;
 
 public enum Week {
     // 요일
